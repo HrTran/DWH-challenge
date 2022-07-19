@@ -1,6 +1,10 @@
 # DWH coding challenge
 This challenge demonstrates how to use pandas for processing CDC data.
 
+## Requirements
+- Python 3.8
+- Docker
+
 ## Build
 Build container with Dockerfile
     
